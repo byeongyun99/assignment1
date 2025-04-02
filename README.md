@@ -1,7 +1,11 @@
 # Assignment 1: Adversarial Attacks (FGSM & PGD)
 
+MNIST
 1. `VGGNet_train.py` 실행하여 모델 학습  
 2. `_test.py` 실행하여 FGSM / PGD 공격 수행 및 결과 확인
+---
+CIFAR10
+pretrained model : mobilenetv2 https://github.com/huyvnphan/PyTorch_CIFAR10?tab=readme-ov-file 
 
 ---
 
